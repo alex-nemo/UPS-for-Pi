@@ -24,7 +24,7 @@
 
 ## PCB Design
 - I have desined two PCB's one for through hole componets and another for SMD compnents
-- Please PCB Design folder for more details
+- Please refer PCB Design folder for more details
 
 ## Soruce Code
 - You can refer the original repository 'Power management for portable Raspberry Pi projects' for reference
